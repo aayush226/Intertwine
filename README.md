@@ -1,6 +1,7 @@
 # Welcome to Intertwine!
 
-**Intertwine** is a multi-purpose graph based editor built using [PyQt5](https://pypi.org/project/PyQt5/)
+**Intertwine** is a Graph Node based Editor. 
+*Graph Nodes* can contain algorithms, functions, attributes etc with multiple input and output *Sockets*. *Edges* connect output socket of one Graph Node to input socket of another. Data/Information is propagated between Graph Nodes via Edges.
 
 **Tutorial**:
 - Double Click to add new Graph Node to the Scene
