@@ -7,6 +7,9 @@
 - Double Click to add new Graph Node to the Scene
 - Drag and Drop Or Click on 2 Sockets to create Edge between 2 Graph Nodes
 - Click on Graph Node to select. Drag Selected Graph Node with Left Mouse Button to move
+
+  https://user-images.githubusercontent.com/44861043/199162992-6731d93a-92de-45c3-b351-ceab9c9aa1bf.mp4
+
 - Press Ctrl to select multiple Graph Nodes at once
 - Use Mouse Wheel to Zoom In and Out at location
 - Click and Drag Middle Mouse Button to Navigate/Pan Scene
@@ -29,7 +32,7 @@
 - 2 Edge Types - Bezier Curve Edge and Direct Edge are available
 - Edge and Socket Colors can be controlled
 - Graph Node color and dimensions can be modified
-- Each Graph Node can be customized to contain textboxes, sliders, buttons etc
+- Each Graph Node can be customized to contain algorithms, functions etc and elements like textboxes, sliders, buttons etc
 
 **Example**:
 
