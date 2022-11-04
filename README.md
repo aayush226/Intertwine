@@ -1,6 +1,6 @@
 # Welcome to Intertwine!
 
-**Intertwine** is a Graph Node based Editor. 
+**Intertwine** is a Graph based Editor. 
 *Graph Nodes* can contain algorithms, functions, attributes etc with multiple input and output *Sockets*. *Edges* connect output socket of one Graph Node to input socket of another. Data/Information is propagated between Graph Nodes via Edges.
 
 **Tutorial**:
