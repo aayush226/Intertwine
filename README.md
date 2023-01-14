@@ -1,6 +1,10 @@
 # Welcome to Intertwine!
 
-**Intertwine** is a Graph based Editor. 
+**Intertwine** is a Graph based Editor for planning a manufacturing industry. It can be used in various ways such as process design and simulation, machine control, supply chain management and data analysis by providing a visual representation of the systems and networks.
+
+Imagine a manufacturing process that includes several stages such as raw material input, assembly, testing, and packaging. Each stage of the process can be represented by a Graph Node in the editor. By connecting these nodes together, you can create a visual representation of the entire process, and easily identify any inefficiencies in the process.
+For example, you can connect a graph node that represents the raw material input to a graph node that represents the assembly stage. This connection would indicate that the raw material is used in the assembly stage. By connecting all the nodes that represent each stage of the process, you can create a visual representation of the entire manufacturing process.
+
 *Graph Nodes* can contain algorithms, functions, attributes etc with multiple input and output *Sockets*. *Edges* connect output socket of one Graph Node to input socket of another. Data/Information is propagated between Graph Nodes via Edges.
 
 **Tutorial**:
